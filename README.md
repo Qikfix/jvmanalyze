@@ -12,7 +12,7 @@ To use this script, will be necessary
 
 Sample of fields that script will capture
 
-`
+```
 Heap Configuration:
    MinHeapFreeRatio = 40
    MaxHeapFreeRatio = 70
@@ -57,7 +57,7 @@ Perm Generation:
    used     = 33149480 (31.613807678222656MB)
    free     = 77272 (0.07369232177734375MB)
    99.76744040464743% used
-`
+```
 
 Hope help you.
 
