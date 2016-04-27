@@ -1,7 +1,7 @@
 # jvmanalyze
 Script to analyze application server JVM's, with heap size information
 
-Using this script, will be possible collect some information from your JVM's to analyze in another tool, like libre office, so will be easy create some graphs, use auto filters, etc.
+Using this script, will be possible to collect some information from your JVM's to analyze in another tool, like libre office, so it will be easy create some graphs and use auto filters, etc.
 
 To use this script, will be necessary
 
@@ -59,6 +59,6 @@ Perm Generation:
    99.76744040464743% used
 ```
 
-Hope help you.
+I hope this could help you.
 
 Waldirio
